@@ -1,4 +1,4 @@
-package models
+package util
 
 import scala.slick.jdbc.JdbcBackend.Database
 import scala.slick.driver.MySQLDriver.simple._
